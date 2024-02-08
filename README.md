@@ -1,9 +1,8 @@
+![image](https://github.com/urfan03/holbertonschool-web-development/assets/83137111/c1dc5396-b929-4dff-9504-a14f5d064517)
 Project Name: Smiling School
 This project shows clean code writing skills with HTML.
 Technologies used:
 1. HTML
-![image](https://github.com/urfan03/holbertonschool-web-development/assets/83137111/c1dc5396-b929-4dff-9504-a14f5d064517)
-
 
 Maybe this website doesn't have perfect design, but it has very good HTML structure.
 
