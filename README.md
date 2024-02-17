@@ -1,3 +1,3 @@
 holbertonschool-web-development
 
-First website with HTMl and CSS
+First website with HTML and CSS
